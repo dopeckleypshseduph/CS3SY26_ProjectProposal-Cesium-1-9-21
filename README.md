@@ -16,7 +16,9 @@ The program would include a “Drinks” superclass, which is composed of classe
 For the “Drinks” superclass, its attributes would include calories**, price**, and name**. There are 3 different ~~Drink classes, Coffee, Milk Tea, and Fruit Shake. The class Coffee would have extra attributes of caffeine content, coffee bean type, type of coffee, amount of milk, type of milk, and ice content. The class Fruit Shake, type of fruit, toppings. The class Milk Tea would have the extra attributes of toppings, type of milk, ice content, tea type.
 
 This program tracks all the important things that happen during a day in a cafe. At the start of a day, the order number gets reset. When a customer orders a drink or multiple drinks, they get an order number. The Barista who is clocked in at that time would get an increase in the amount of drinks they serve by the amount of drink the customer ordered. The gross income increases by the price of the drinks the customer ordered. The expected outputs would be the amount of drinks served by each barista, the gross income, and the items and prices on the menu.
+
 *multipliers for the base size and sugar content
+
 **assuming regular sized order
 
 https://github.com/dopeckleypshseduph/CS3SY26_ProjectProposal-Cesium-1-9-21/blob/main/Screenshot%202026-11-13%20161251.png
