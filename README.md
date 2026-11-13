@@ -19,7 +19,7 @@ This program tracks all the important things that happen during a day in a cafe.
 *multipliers for the base size and sugar content
 **assuming regular sized order
 
-
+https://github.com/dopeckleypshseduph/CS3SY26_ProjectProposal-Cesium-1-9-21/blob/main/Screenshot%202026-11-13%20161251.png
 
 The target demographic for this program is cafe managers who want to track whatever is going on during the day.
 Goals:
